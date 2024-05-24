@@ -1,0 +1,34 @@
+div {
+    width: 300px;
+    border: 10px solid green;
+    padding: 10px;
+    margin: 20px;
+    display:inline-block;
+    background-color: rgb(137, 193, 175);
+  }
+
+h1{
+    color: brown;
+}
+#title1, #title2 {
+    font-size: large;
+    color: black;
+    width: 80%;
+    border: 10px solid rgb(142, 66, 66);
+    background-color: blanchedalmond;
+}
+.image {
+    background-color: blanchedalmond;
+    width: auto;
+    border: 15px solid black;
+    align-items: center;
+    margin: auto;
+}
+.Weekday {
+    background-color: rgb(88, 178, 162);
+    width: 20%;
+    border: 5px solid black;
+    align-items: center;
+    margin: auto;
+    text-align: center;
+}
